@@ -1,6 +1,6 @@
-### Hi there 👋
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=zakariasantoso&show_icons=true&theme=chartreuse-dark) 
+
+<h1 align='center'> Hi there! :wave:</h1>
 
 - 🔭 I’m currently freelancing now, you can check <a href="https://zakariasantoso.github.io/">my personal website</a>
 - ⚡ Excited in web security

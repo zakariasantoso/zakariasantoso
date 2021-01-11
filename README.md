@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/zakaria_santoso/" target="_blank"><img height="40" src="https://github.com/ArugaZ/ArugaZ/blob/main/images/instagram.svg?raw=true" /></a>&nbsp;&nbsp;
 </p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=zakariasantoso&show_icons=true&theme=chartreuse-dark) 
+![github stats](https://github-readme-stats.vercel.app/api?username=zuramai&show_icons=true)
 
 
 - 🔭 I’m currently freelancing now, you can check my projects at <a href="https://zakariasantoso.github.io/">My website portfolio</a>

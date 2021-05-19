@@ -5,10 +5,10 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zakariasantoso&show_icons=true&theme=chartreuse-dark)
 
-- 🔭 I’m currently freelancing now, you can check my projects at <a href="https://zakariasantoso.github.io/">My website portfolio</a>
-- ⚡ Excited in web security
-- 🌱 I’m currently learning Laravel and VueJS framework
-- 😄 I'm natively speak Indonesian and fluently speak english especially british accent <3 
-- 💕 I'm currently fall in love with NodeJS and some robot programs
+- 🔭 I’m currently working at <a href="https://mujaka.net/">CV Mujio Punakawan</a> and do some freelance project, you can check my projects at <a href="https://zakariasantoso.github.io/">My website portfolio</a>
+- ⚡ Excited about web security and web technologies
+- 🌱 I’m currently learning 3D website animation with Three JS
+- 😄 I natively speak Indonesian and fluently speak English especially British accent <3 
+- 💕 I'm currently falling in love with JavaScript and some cool framework with it  
 - 📫 You can contact me at santosozakaria29@gmail.com
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariasantoso&theme=react&hide=issues">
